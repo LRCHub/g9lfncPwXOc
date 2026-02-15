@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "くちづけDiamond",
+  "base_artist": "WEAVER",
+  "createdAt": "2026-02-15T16:37:56.057359Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "くちづけDiamond",
+      "artist": "WEAVER",
+      "has_synced": true,
+      "path": "select/01_くちづけDiamond_WEAVER.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "くちづけDiamond",
+      "artist": "WEAVER",
+      "has_synced": true,
+      "path": "select/02_くちづけDiamond_WEAVER.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "くちづけDiamond",
+      "artist": "WEAVER",
+      "has_synced": true,
+      "path": "select/03_くちづけDiamond_WEAVER.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "くちづけDiamond",
+      "artist": "WEAVER",
+      "has_synced": true,
+      "path": "select/04_くちづけDiamond_WEAVER.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "くちづけDiamond",
+      "artist": "WEAVER",
+      "has_synced": true,
+      "path": "select/05_くちづけDiamond_WEAVER.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "くちづけDiamond (LIVE) - Kuchizuke Diamond (LIVE)",
+      "artist": "WEAVER",
+      "has_synced": true,
+      "path": "select/06_くちづけDiamond_(LIVE)_-_Kuchizuke_Diamond_(LIVE)_WEAVER.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "くちづけDiamond",
+      "artist": "WEAVER",
+      "has_synced": true,
+      "path": "select/07_くちづけDiamond_WEAVER.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "くちづけDiamond",
+      "artist": "WEAVER",
+      "has_synced": false,
+      "path": "select/pl_01_くちづけDiamond_WEAVER.txt"
+    }
+  ]
+}
